@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Admin/FeeMaster.aspx" hash="fffffff822d86812" filehash="cf2b3b46d512f2f5" flags="110000" assembly="App_Web_xu56dmot" type="ASP.admin_feemaster_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Admin/FeeMaster.aspx" />
+        <filedep name="/pvkk/Admin/FeeMaster.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

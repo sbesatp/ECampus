@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/frmFileUploader.aspx" hash="fffffff822d86812" filehash="e11d7d8003a6b828" flags="110000" assembly="App_Web_4dg51sf8" type="ASP.frmfileuploader_aspx">
+    <filedeps>
+        <filedep name="/pvkk/frmFileUploader.aspx" />
+        <filedep name="/pvkk/frmFileUploader.aspx.cs" />
+    </filedeps>
+</preserve>

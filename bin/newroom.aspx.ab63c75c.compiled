@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Hostel/newroom.aspx" hash="fffffff822d86812" filehash="123d98513dc822de" flags="110000" assembly="App_Web_gtppnfzq" type="ASP.hostel_newroom_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Hostel/newroom.aspx" />
+        <filedep name="/pvkk/Hostel/newroom.aspx.cs" />
+    </filedeps>
+</preserve>

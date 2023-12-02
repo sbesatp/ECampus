@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Feepayments/duedatepermission.aspx" hash="fffffff822d86812" filehash="6cbd80d9d0769573" flags="110000" assembly="App_Web_teali-cx" type="ASP.feepayments_duedatepermission_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Feepayments/duedatepermission.aspx" />
+        <filedep name="/pvkk/Feepayments/duedatepermission.aspx.cs" />
+        <filedep name="/pvkk/WUCCourseBranch.ascx" />
+        <filedep name="/pvkk/WUCCourseBranch.ascx.cs" />
+    </filedeps>
+</preserve>

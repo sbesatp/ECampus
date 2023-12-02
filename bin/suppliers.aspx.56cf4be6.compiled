@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Systems/Suppliers.aspx" hash="fffffff822d86812" filehash="6495c11159044bc2" flags="110000" assembly="App_Web_-jtwmpwn" type="ASP.systems_suppliers_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Systems/Suppliers.aspx" />
+        <filedep name="/pvkk/Systems/Suppliers.aspx.cs" />
+    </filedeps>
+</preserve>

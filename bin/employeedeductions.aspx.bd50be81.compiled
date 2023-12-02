@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Employee/EmployeeDeductions.aspx" hash="fffffff822d86812" filehash="aa4c00d7a3f101b6" flags="110000" assembly="App_Web_xkhiozri" type="ASP.employee_employeedeductions_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Employee/EmployeeDeductions.aspx" />
+        <filedep name="/pvkk/Employee/EmployeeDeductions.aspx.cs" />
+        <filedep name="/pvkk/Employee/EmpMaster.master" />
+        <filedep name="/pvkk/Employee/EmpMaster.master.cs" />
+    </filedeps>
+</preserve>

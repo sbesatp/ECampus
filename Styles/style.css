@@ -1,0 +1,100 @@
+/* Authored by Joseph De Araujo */
+
+
+.menuLink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	/*font-weight: bold;*/
+	color: Blue;
+	text-decoration: none;
+	/*background-color:#efeff0;*/
+	
+}
+
+a.menuLink:hover {
+	text-decoration: none;
+	color:Blue;
+	font-size: 10px;
+	background-color:#abd3f9;
+}
+/*
+h1 {
+	font-family: Tahoma;
+	font-size: 18px;
+	font-weight: bold;
+	color: #E6851C;
+}
+*/
+body, td p, select, input, textarea {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #545454;
+	margin-top:1;
+	
+	
+	
+}
+
+a {
+	color:Blue;
+	text-decoration: none;
+	/*font-weight:bold ;*/
+}
+
+a:hover {
+	color: Blue;
+	text-decoration: none;
+}
+
+.sidenewshdr{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color: #FFFFFF;
+}
+
+.navbar
+{
+	color: White;
+	background-color:#6d9add;
+	font-size: 10px;
+	font-family:Verdana;
+	background-color:#abd3f9;
+	
+}
+.searchlink, .searchlink:hover {
+color: #545454;
+text-decoration:none;
+font-size:10px;
+font-family:Verdana;
+}
+.linkHighlight
+{
+	color:#663300;
+	font-weight:bold;
+}
+a.welcomeLink
+{
+	color:#003399;
+	font-family:Arial;
+	font-size:12px;
+}
+.welcomeMsg
+{
+	color:#003399;
+	font-family:Arial;
+	font-size:12px;
+}
+a.welcomeLink:hover
+{
+	color:Yellow;
+	font-family:Arial;
+	font-size:12px;
+	text-decoration:underline;
+}
+.userData
+{
+	background-color:#99ccff;
+	height:25px;
+	color:#003399;
+}

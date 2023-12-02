@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Stores/Suppliers.aspx" hash="fffffff822d86812" filehash="2e644f411a9b190" flags="110000" assembly="App_Web_rdnrr5if" type="ASP.stores_suppliers_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Stores/StoresMaster.master" />
+        <filedep name="/pvkk/Stores/StoresMaster.master.cs" />
+        <filedep name="/pvkk/Stores/Suppliers.aspx" />
+        <filedep name="/pvkk/Stores/Suppliers.aspx.cs" />
+    </filedeps>
+</preserve>

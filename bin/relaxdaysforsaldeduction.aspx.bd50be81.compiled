@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Employee/RelaxDaysForSalDeduction.aspx" hash="fffffff822d86812" filehash="ff41bfec086c6783" flags="110000" assembly="App_Web_xkhiozri" type="ASP.employee_relaxdaysforsaldeduction_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Employee/EmpMaster.master" />
+        <filedep name="/pvkk/Employee/EmpMaster.master.cs" />
+        <filedep name="/pvkk/Employee/RelaxDaysForSalDeduction.aspx" />
+        <filedep name="/pvkk/Employee/RelaxDaysForSalDeduction.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Library/libpogenerate.aspx" hash="fffffff822d86812" filehash="f07e49a4290fe250" flags="110000" assembly="App_Web_uz0tpbz4" type="ASP.library_libpogenerate_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Library/libpogenerate.aspx" />
+        <filedep name="/pvkk/Library/libpogenerate.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Admissions/checklist.aspx" hash="fffffff822d86812" filehash="6ef84093fdb55750" flags="110000" assembly="App_Web_ep-w2hll" type="ASP.admissions_checklist_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Admissions/checklist.aspx" />
+        <filedep name="/pvkk/Admissions/checklist.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+    </filedeps>
+</preserve>

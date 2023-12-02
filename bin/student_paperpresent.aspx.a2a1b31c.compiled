@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/student_paperpresent.aspx" hash="fffffff822d86812" filehash="35a15463d2ff0622" flags="110000" assembly="App_Web_24wo7649" type="ASP.academics_student_paperpresent_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/student_paperpresent.aspx" />
+        <filedep name="/pvkk/Academics/student_paperpresent.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Admin/settings.aspx" hash="fffffff822d86812" filehash="7c31a8299d23fee4" flags="110000" assembly="App_Web_shsd5vnc" type="ASP.admin_settings_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Admin/settings.aspx" />
+        <filedep name="/pvkk/Admin/settings.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+    </filedeps>
+</preserve>

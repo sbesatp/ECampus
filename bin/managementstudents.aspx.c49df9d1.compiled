@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Feepayments/managementstudents.aspx" hash="fffffff822d86812" filehash="b830c89cd3f11b2b" flags="110000" assembly="App_Web_teali-cx" type="ASP.feepayments_managementstudents_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+        <filedep name="/pvkk/Feepayments/managementstudents.aspx" />
+        <filedep name="/pvkk/Feepayments/managementstudents.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Mgmt/MngStudentsFeesPayment.aspx" hash="fffffff822d86812" filehash="ecbb465eb94eb56d" flags="110000" assembly="App_Web_av9h9mx1" type="ASP.mgmt_mngstudentsfeespayment_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+        <filedep name="/pvkk/Mgmt/MngStudentsFeesPayment.aspx" />
+        <filedep name="/pvkk/Mgmt/MngStudentsFeesPayment.aspx.cs" />
+    </filedeps>
+</preserve>

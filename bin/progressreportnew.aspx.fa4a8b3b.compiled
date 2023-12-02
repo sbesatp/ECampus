@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Examinations/progressreportnew.aspx" hash="fffffff822d86812" filehash="d280f6695053f807" flags="110000" assembly="App_Web_04eev8v5" type="ASP.examinations_progressreportnew_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+        <filedep name="/pvkk/Examinations/progressreportnew.aspx" />
+        <filedep name="/pvkk/Examinations/progressreportnew.aspx.cs" />
+    </filedeps>
+</preserve>

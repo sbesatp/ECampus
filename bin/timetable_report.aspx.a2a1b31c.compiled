@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/timetable_report.aspx" hash="fffffff822d86812" filehash="fa733a3090f6a7ca" flags="110000" assembly="App_Web_dejwud5_" type="ASP.academics_timetable_report_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/timetable_report.aspx" />
+        <filedep name="/pvkk/Academics/timetable_report.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+    </filedeps>
+</preserve>

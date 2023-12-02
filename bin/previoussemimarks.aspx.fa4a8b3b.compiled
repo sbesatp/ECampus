@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Examinations/previoussemimarks.aspx" hash="fffffff822d86812" filehash="c39ed1560420c2a8" flags="110000" assembly="App_Web_drk1jako" type="ASP.examinations_previoussemimarks_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Examinations/previoussemimarks.aspx" />
+        <filedep name="/pvkk/Examinations/previoussemimarks.aspx.cs" />
+    </filedeps>
+</preserve>

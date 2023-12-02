@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/CAPMaster.master" hash="fffffff822d86812" filehash="5a792f9f9ce05303" flags="110000" assembly="App_Web_4dg51sf8" type="ASP.capmaster_master">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

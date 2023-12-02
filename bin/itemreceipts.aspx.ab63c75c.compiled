@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Hostel/itemreceipts.aspx" hash="fffffff822d86812" filehash="6db8f65490036ee5" flags="110000" assembly="App_Web_gtppnfzq" type="ASP.hostel_itemreceipts_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Hostel/itemreceipts.aspx" />
+        <filedep name="/pvkk/Hostel/itemreceipts.aspx.cs" />
+    </filedeps>
+</preserve>

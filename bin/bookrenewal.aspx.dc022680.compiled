@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Library/bookrenewal.aspx" hash="fffffff822d86812" filehash="756ef7dd2b881dcc" flags="110000" assembly="App_Web_pso51t9v" type="ASP.library_bookrenewal_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Library/bookrenewal.aspx" />
+        <filedep name="/pvkk/Library/bookrenewal.aspx.cs" />
+    </filedeps>
+</preserve>

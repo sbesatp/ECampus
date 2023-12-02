@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Admissions/detainedstudentsentry.aspx" hash="fffffff822d86812" filehash="a735f61cfc428d38" flags="110000" assembly="App_Web_ep-w2hll" type="ASP.admissions_detainedstudentsentry_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Admissions/detainedstudentsentry.aspx" />
+        <filedep name="/pvkk/Admissions/detainedstudentsentry.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/pastattendanceentry.aspx" hash="fffffff822d86812" filehash="8aa7c3c9c4407ff3" flags="110000" assembly="App_Web_gxdpcjgh" type="ASP.academics_pastattendanceentry_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/pastattendanceentry.aspx" />
+        <filedep name="/pvkk/Academics/pastattendanceentry.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+    </filedeps>
+</preserve>

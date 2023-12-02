@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Employee/SalaryHeadsMaster.aspx" hash="fffffff822d86812" filehash="4be987886f4021f2" flags="110000" assembly="App_Web_xkhiozri" type="ASP.employee_salaryheadsmaster_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Employee/EmpMaster.master" />
+        <filedep name="/pvkk/Employee/EmpMaster.master.cs" />
+        <filedep name="/pvkk/Employee/SalaryHeadsMaster.aspx" />
+        <filedep name="/pvkk/Employee/SalaryHeadsMaster.aspx.cs" />
+    </filedeps>
+</preserve>

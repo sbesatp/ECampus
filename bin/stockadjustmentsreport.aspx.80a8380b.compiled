@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Stores/stockadjustmentsreport.aspx" hash="fffffff822d86812" filehash="6a63f362dd8b8cab" flags="110000" assembly="App_Web_rdnrr5if" type="ASP.stores_stockadjustmentsreport_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Stores/stockadjustmentsreport.aspx" />
+        <filedep name="/pvkk/Stores/stockadjustmentsreport.aspx.cs" />
+        <filedep name="/pvkk/Stores/StoresMaster.master" />
+        <filedep name="/pvkk/Stores/StoresMaster.master.cs" />
+    </filedeps>
+</preserve>

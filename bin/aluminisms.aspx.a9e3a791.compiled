@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Correspondence/aluminisms.aspx" hash="fffffff822d86812" filehash="20ba649572d740ad" flags="110000" assembly="App_Web_aoqv0k7x" type="ASP.correspondence_aluminisms_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Correspondence/aluminisms.aspx" />
+        <filedep name="/pvkk/Correspondence/aluminisms.aspx.cs" />
+    </filedeps>
+</preserve>

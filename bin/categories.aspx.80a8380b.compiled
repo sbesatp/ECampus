@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Stores/Categories.aspx" hash="fffffff822d86812" filehash="4cc99a62ce300b7a" flags="110000" assembly="App_Web_yqqhe-gk" type="ASP.stores_categories_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Stores/Categories.aspx" />
+        <filedep name="/pvkk/Stores/Categories.aspx.cs" />
+    </filedeps>
+</preserve>

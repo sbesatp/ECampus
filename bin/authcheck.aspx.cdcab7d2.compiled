@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/authcheck.aspx" hash="fffffff822d86812" filehash="46b311bcebd9b44a" flags="110000" assembly="App_Web_4dg51sf8" type="ASP.authcheck_aspx">
+    <filedeps>
+        <filedep name="/pvkk/authcheck.aspx" />
+        <filedep name="/pvkk/authcheck.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Library/exportaccessionregister.aspx" hash="fffffff822d86812" filehash="30923244acbed14a" flags="110000" assembly="App_Web_uz0tpbz4" type="ASP.library_exportaccessionregister_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Library/exportaccessionregister.aspx" />
+        <filedep name="/pvkk/Library/exportaccessionregister.aspx.cs" />
+    </filedeps>
+</preserve>

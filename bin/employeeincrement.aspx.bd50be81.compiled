@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Employee/EmployeeIncrement.aspx" hash="fffffff822d86812" filehash="6e55375b35f58838" flags="110000" assembly="App_Web_xkhiozri" type="ASP.employee_employeeincrement_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Employee/EmployeeIncrement.aspx" />
+        <filedep name="/pvkk/Employee/EmployeeIncrement.aspx.cs" />
+        <filedep name="/pvkk/Employee/EmpMaster.master" />
+        <filedep name="/pvkk/Employee/EmpMaster.master.cs" />
+    </filedeps>
+</preserve>

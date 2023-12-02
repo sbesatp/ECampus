@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/rptCounsellingAssignments.aspx" hash="fffffff822d86812" filehash="6a2a0453a249937d" flags="110000" assembly="App_Web_gxdpcjgh" type="ASP.academics_rptcounsellingassignments_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/rptCounsellingAssignments.aspx" />
+        <filedep name="/pvkk/Academics/rptCounsellingAssignments.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+    </filedeps>
+</preserve>

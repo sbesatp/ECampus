@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/WUCBatchYear.ascx" hash="fffffff822d86812" filehash="c7882a76f309f515" flags="110000" assembly="App_Web_4dg51sf8" type="ASP.wucbatchyear_ascx">
+    <filedeps>
+        <filedep name="/pvkk/WUCBatchYear.ascx" />
+        <filedep name="/pvkk/WUCBatchYear.ascx.cs" />
+    </filedeps>
+</preserve>

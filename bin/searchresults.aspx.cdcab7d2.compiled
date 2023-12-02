@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/searchresults.aspx" hash="fffffff822d86812" filehash="bff9998b01e97367" flags="110000" assembly="App_Web_scojeyku" type="ASP.searchresults_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/searchresults.aspx" />
+        <filedep name="/pvkk/searchresults.aspx.cs" />
+    </filedeps>
+</preserve>

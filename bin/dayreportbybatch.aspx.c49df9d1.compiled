@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Feepayments/dayreportbybatch.aspx" hash="fffffff822d86812" filehash="c52cf1266b6d4b1a" flags="110000" assembly="App_Web_xy-57vqe" type="ASP.feepayments_dayreportbybatch_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Feepayments/dayreportbybatch.aspx" />
+        <filedep name="/pvkk/Feepayments/dayreportbybatch.aspx.cs" />
+    </filedeps>
+</preserve>

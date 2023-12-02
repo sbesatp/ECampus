@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/rptcircular.aspx" hash="fffffff822d86812" filehash="d639e3068ceef6a5" flags="110000" assembly="App_Web_dejwud5_" type="ASP.academics_rptcircular_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/rptcircular.aspx" />
+        <filedep name="/pvkk/Academics/rptcircular.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

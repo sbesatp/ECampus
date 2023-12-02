@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Feepayments/receiptsoffline.aspx" hash="fffffff822d86812" filehash="fb2ad74b1bb77e75" flags="110000" assembly="App_Web_teali-cx" type="ASP.feepayments_receiptsoffline_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Feepayments/receiptsoffline.aspx" />
+        <filedep name="/pvkk/Feepayments/receiptsoffline.aspx.cs" />
+    </filedeps>
+</preserve>

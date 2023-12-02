@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Library/lostbook.aspx" hash="fffffff822d86812" filehash="ffdaccb01c678b16" flags="110000" assembly="App_Web_uz0tpbz4" type="ASP.library_lostbook_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Library/lostbook.aspx" />
+        <filedep name="/pvkk/Library/lostbook.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/studentsearch.aspx" hash="fffffff822d86812" filehash="34ba9d60c418d7f1" flags="110000" assembly="App_Web_scojeyku" type="ASP.studentsearch_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+        <filedep name="/pvkk/studentsearch.aspx" />
+        <filedep name="/pvkk/studentsearch.aspx.cs" />
+    </filedeps>
+</preserve>

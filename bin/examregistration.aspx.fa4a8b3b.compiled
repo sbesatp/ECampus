@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Examinations/examregistration.aspx" hash="fffffff822d86812" filehash="c28861fca2ea71db" flags="110000" assembly="App_Web_yn8v4-yi" type="ASP.examinations_examregistration_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+        <filedep name="/pvkk/Examinations/examregistration.aspx" />
+        <filedep name="/pvkk/Examinations/examregistration.aspx.cs" />
+    </filedeps>
+</preserve>

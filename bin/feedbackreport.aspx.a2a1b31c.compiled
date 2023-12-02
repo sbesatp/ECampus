@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/feedbackreport.aspx" hash="fffffff822d86812" filehash="d7602bb55f0e7335" flags="110000" assembly="App_Web_gxdpcjgh" type="ASP.academics_feedbackreport_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/feedbackreport.aspx" />
+        <filedep name="/pvkk/Academics/feedbackreport.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

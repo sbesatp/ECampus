@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Systems/HardwareIssue.aspx" hash="fffffff822d86812" filehash="67acd0df3a25cde5" flags="110000" assembly="App_Web_-jtwmpwn" type="ASP.systems_hardwareissue_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Systems/HardwareIssue.aspx" />
+        <filedep name="/pvkk/Systems/HardwareIssue.aspx.cs" />
+    </filedeps>
+</preserve>

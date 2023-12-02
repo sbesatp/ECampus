@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Employee/rpttotalsalary.aspx" hash="fffffff822d86812" filehash="5ea3a395b41bf13" flags="110000" assembly="App_Web_waebw9pn" type="ASP.employee_rpttotalsalary_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Employee/rpttotalsalary.aspx" />
+        <filedep name="/pvkk/Employee/rpttotalsalary.aspx.cs" />
+        <filedep name="/pvkk/WUCEmployee.ascx" />
+        <filedep name="/pvkk/WUCEmployee.ascx.cs" />
+    </filedeps>
+</preserve>

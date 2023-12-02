@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Accounts/AccIssuedCheques.aspx" hash="fffffff822d86812" filehash="2a1b1bcdb9fce492" flags="110000" assembly="App_Web_d5d3zjyd" type="ASP.accounts_accissuedcheques_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Accounts/AccIssuedCheques.aspx" />
+        <filedep name="/pvkk/Accounts/AccIssuedCheques.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

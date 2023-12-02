@@ -1,0 +1,448 @@
+
+
+<html>
+<head >
+    <title>Untitled Page</title>
+    <style type='text/css'>
+
+/* Scrollable Content Height */
+.scrollContent {
+ height:100px;
+ overflow-x:hidden;
+ overflow-y:auto;
+}
+
+.scrollContent tr {
+ height: auto;
+ white-space: nowrap;
+}
+
+/* Prevent Mozilla scrollbar from hiding right-most cell content */
+.scrollContent tr td:last-child {
+ padding-right: 20px;
+}
+
+/* Fixed Header Height */
+.fixedHeader tr {
+ position: relative;
+ height: auto;
+ /* this fixes IE header jumping bug when mousing over rows in the tbody */
+ /*top: expression( this.parentNode.parentNode.parentNode.scrollTop + 'px' );*/
+ top: expression( this.parentNode.parentNode.parentNode.scrollTop);
+}
+
+/* Put border around entire table */
+div.TableContainer {
+ border: 1px solid #7DA87D;
+ overflow-y:auto;
+}
+
+/* Table Header formatting */
+.headerFormat {
+ background-color: white;
+ color: #FFFFFF;
+ margin: 3px;
+ padding: 1px;
+ white-space: nowrap;
+ font-family: Helvetica;
+ font-size: 16px;
+ text-decoration: none;
+ font-weight: bold;
+}
+.headerFormat tr td {
+ border: 1px solid #000000;
+ background-color: #7DA87D;
+}
+
+/* Table Body (Scrollable Content) formatting */
+.bodyFormat tr td {
+	color: #000000;
+	margin: 3px;
+	padding: 1px;
+	border: 0px none;
+	font-family: Helvetica;
+	font-size: 12px;
+}
+
+/* Use to set different color for alternating rows */
+.alternateRow {
+  background-color: #E0F1E0;
+}
+
+/* Styles used for SORTING */
+.point {
+ cursor:pointer;
+}
+
+td.sortedColumn {
+  background-color: #E0F1E0;
+}
+
+tr.alternateRow td.sortedColumn {
+  background-color: #c5e5c5;
+}
+
+.total {
+	background-color: #FED362;
+	color: #000000;
+	white-space: nowrap;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+table.scrollTable tr:hover {
+	background-color: #c5e5c5;
+	color: #006600;
+	font-style: normal;
+	text-decoration: underline overline;
+}
+
+.hoverMe {
+	background-color: #c5e5c5;
+	color: #006600;
+	font-style: normal;
+	text-decoration: underline overline;
+}
+
+</style>
+
+<style type="text/css">
+div.TableContainer {
+ height: 121px; 
+ width:300px;
+ overflow-x:auto;
+ overflow-y:auto;
+}
+</style>
+</head>
+<body>
+    <form id="form1" runat="server">
+     <center>
+        <div id="divMarks" style="text-align: center">
+            <div class='TableContainer' id='divStudents' title='tblBTech_12_1_0_Marks_2008'>
+                <table class='scrollTable' width='100%' cellspacing='1' id='tblStudents' cellpadding='2'
+                    title='U'>
+                    <thead class='fixedHeader headerFormat' onclick='alert(this.parentNode.parentNode.parentNode.id)' >
+                        <tr align='left'>
+                            <td>
+                                S.No</td>
+                            <td>
+                                R.No</td>
+                            <td style='display: none;'>
+                                S.Name</td>
+                            <td title='C&DS_48_T'>
+                                C&DS<span style='display: none' title='48'>0</span></td>
+                            <td title='ENGLISH_44_T'>
+                                ENGLISH<span style='display: none' title='44' >2</span></td>
+                            <td title='M-I_45_T'>
+                                M-I<span style='display: none' title='45'>2</span></td>
+                            <td title='APPLIED.PH_47_T'>
+                                APPLIED.PH<span style='display: none' title='47'>0</span></td>
+                            <td title='MM_46_T'>
+                                MM<span style='display: none' title='46' >0</span></td>
+                            <td title='EDC_50_T'>
+                                EDC<span style='display: none' title='50' >2</span></td>
+                            <td title='BEE_49_T'>
+                                BEE<span style='display: none' title='49' >2</span></td>
+                            <td title='ENGG..DRAW_51_T'>
+                                ENGG..DRAW<span style='display: none' title='51' >2</span></td>
+                            <td title='CP.Lab_0_L'>
+                                CP.Lab<span style='display: none' title='0' >0</span></td>
+                            <td title='E.&.E.LAB_53_L'>
+                                E.&.E.LAB<span style='display: none' title='53' >0</span></td>
+                            <td title='ENGLISH.LA_54_L'>
+                                ENGLISH.LA<span style='display: none' title='54' >2</span></td>
+                            <td title='ITWS_55_L'>
+                                ITWS<span style='display: none' title='55' >2</span></td>
+                        </tr>
+                    </thead>
+                    <tbody class='scrollContent 
+bodyFormat'>
+                        <tr align='left'>
+                            <td>
+                                1</td>
+                            <td title='108294'>
+                                <input type='text' readonly='readonly' style='width: 75%' title='108294' value='08B01A1201' /></td>
+                            <td style='display: none'>
+                                ADABALA VENKATA SATYA DURGA VANI</td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='13' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='39'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='15' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='45'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='16' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='66'
+                                    title='6' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='16' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='35'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='15' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='43'
+                                    title='6' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='16' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='53'
+                                    title='6' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='17' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='34'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='12' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='64'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='22' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='33'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='20' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='49'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='24' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='44'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='22' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='45'
+                                    title='4' /></td>
+                        </tr>
+                        <tr align='left'>
+                            <td style="height: 25px">
+                                2</td>
+                            <td title='108296' style="height: 25px">
+                                <input type='text' readonly='readonly' style='width: 75%' title='108296' value='08B01A1204' /></td>
+                            <td style="display: none; height: 25px;">
+                                ALURI SUSEELA</td>
+                            <td nowrap='nowrap' align='center' style="height: 25px">
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='13' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='39'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center' style="height: 25px">
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='16' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='49'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center' style="height: 25px">
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='11' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='32'
+                                    title='6' /></td>
+                            <td nowrap='nowrap' align='center' style="height: 25px">
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='17' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='33'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center' style="height: 25px">
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='11' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='51'
+                                    title='6' /></td>
+                            <td nowrap='nowrap' align='center' style="height: 25px">
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='14' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='39'
+                                    title='2' /></td>
+                            <td nowrap='nowrap' align='center' style="height: 25px">
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='16' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='34'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center' style="height: 25px">
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='13' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='28'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center' style="height: 25px">
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='18' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='35'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center' style="height: 25px">
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='23' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='46'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center' style="height: 25px">
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='22' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='45'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center' style="height: 25px">
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='21' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='42'
+                                    title='4' /></td>
+                        </tr>
+                        <tr align='left'>
+                            <td>
+                                3</td>
+                            <td title='108297'>
+                                <input type='text' readonly='readonly' style='width: 75%' title='108297' value='08B01A1205' /></td>
+                            <td style='display: none'>
+                                ALLURI VALLY TEJASWANI</td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='10' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center; background-color: Red; color: White'
+                                    value='9' title='0' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='14' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='49'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='8' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center; background-color: Red; color: White'
+                                    value='4' title='0' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='12' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center; background-color: Red; color: White'
+                                    value='4' title='0' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='11' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center; background-color: Red; color: White'
+                                    value='22' title='0' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='11' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center; background-color: Red; color: White'
+                                    value='13' title='0' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='11' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='29'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='12' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='28'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='18' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='33'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='20' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='25'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='25' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='41'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='20' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='38'
+                                    title='4' /></td>
+                        </tr>
+                        <tr align='left'>
+                            <td>
+                                4</td>
+                            <td title='108298'>
+                                <input type='text' readonly='readonly' style='width: 75%' title='108298' value='08B01A1206' /></td>
+                            <td style='display: none'>
+                                BANDARU DEVI PRIYANKA</td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='14' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='30'
+                                    title='6' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='16' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='43'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='17' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='63'
+                                    title='6' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='17' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='43'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='14' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='56'
+                                    title='6' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='14' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='33'
+                                    title='2' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='17' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='36'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='15' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='53'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='20' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='44'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='24' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='44'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='24' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='41'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='23' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='46'
+                                    title='4' /></td>
+                        </tr>
+                        <tr align='left'>
+                            <td>
+                                5</td>
+                            <td title='108299'>
+                                <input type='text' readonly='readonly' style='width: 75%' title='108299' value='08B01A1207' /></td>
+                            <td style='display: none'>
+                                BANDARU DIVYA</td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='19' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='43'
+                                    title='6' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='17' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='51'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='18' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='74'
+                                    title='6' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='18' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='54'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='18' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='79'
+                                    title='6' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='18' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='32'
+                                    title='6' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='20' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='39'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='17' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='68'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='25' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='49'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='25' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='47'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='25' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='43'
+                                    title='4' /></td>
+                            <td nowrap='nowrap' align='center'>
+                                <input type='text' style='width: 20px; text-align: center;' disabled='disabled' value='25' />&nbsp;<input
+                                    type='text' style='width: 20px; text-align: center;' disabled='disabled' value='48'
+                                    title='4' /></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </center>
+    </form>
+</body>
+</html>

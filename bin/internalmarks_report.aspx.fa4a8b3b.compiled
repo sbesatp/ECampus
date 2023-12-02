@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Examinations/internalmarks_report.aspx" hash="fffffff822d86812" filehash="824c6db28baff3bd" flags="110000" assembly="App_Web_04eev8v5" type="ASP.examinations_internalmarks_report_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+        <filedep name="/pvkk/Examinations/internalmarks_report.aspx" />
+        <filedep name="/pvkk/Examinations/internalmarks_report.aspx.cs" />
+    </filedeps>
+</preserve>

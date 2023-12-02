@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Admin/calender.aspx" hash="fffffff822d86812" filehash="9937543552723f23" flags="110000" assembly="App_Web_shsd5vnc" type="ASP.admin_calender_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Admin/calender.aspx" />
+        <filedep name="/pvkk/Admin/calender.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

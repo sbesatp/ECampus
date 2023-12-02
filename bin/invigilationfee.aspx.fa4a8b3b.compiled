@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Examinations/invigilationfee.aspx" hash="fffffff822d86812" filehash="919a2d460f7cc228" flags="110000" assembly="App_Web_yn8v4-yi" type="ASP.examinations_invigilationfee_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Examinations/invigilationfee.aspx" />
+        <filedep name="/pvkk/Examinations/invigilationfee.aspx.cs" />
+    </filedeps>
+</preserve>

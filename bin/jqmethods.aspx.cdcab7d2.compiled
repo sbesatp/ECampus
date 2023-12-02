@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/jqmethods.aspx" hash="fffffff822d86812" filehash="d8c0f6038998333c" flags="110000" assembly="App_Web_scojeyku" type="ASP.jqmethods_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/jqmethods.aspx" />
+        <filedep name="/pvkk/jqmethods.aspx.cs" />
+    </filedeps>
+</preserve>

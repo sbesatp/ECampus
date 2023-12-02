@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Examinations/rptexamregisteredstudents.aspx" hash="fffffff822d86812" filehash="6b365989d4684edb" flags="110000" assembly="App_Web_yn8v4-yi" type="ASP.examinations_rptexamregisteredstudents_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Examinations/rptexamregisteredstudents.aspx" />
+        <filedep name="/pvkk/Examinations/rptexamregisteredstudents.aspx.cs" />
+        <filedep name="/pvkk/reportHead.ascx" />
+        <filedep name="/pvkk/reportHead.ascx.cs" />
+    </filedeps>
+</preserve>

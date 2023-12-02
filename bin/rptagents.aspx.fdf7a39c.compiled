@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Admin/rptagents.aspx" hash="fffffff822d86812" filehash="a1918bb54848e757" flags="110000" assembly="App_Web_xu56dmot" type="ASP.admin_rptagents_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Admin/rptagents.aspx" />
+        <filedep name="/pvkk/Admin/rptagents.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

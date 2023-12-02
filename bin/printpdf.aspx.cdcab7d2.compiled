@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/printpdf.aspx" hash="fffffff822d86812" filehash="fb02c9a1b78a253e" flags="110000" assembly="App_Web_4dg51sf8" type="ASP.printpdf_aspx">
+    <filedeps>
+        <filedep name="/pvkk/printpdf.aspx" />
+        <filedep name="/pvkk/printpdf.aspx.cs" />
+    </filedeps>
+</preserve>

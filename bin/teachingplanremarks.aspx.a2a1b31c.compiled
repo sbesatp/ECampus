@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/teachingplanremarks.aspx" hash="fffffff822d86812" filehash="c9e4c86f5950ca2f" flags="110000" assembly="App_Web_dejwud5_" type="ASP.academics_teachingplanremarks_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/teachingplanremarks.aspx" />
+        <filedep name="/pvkk/Academics/teachingplanremarks.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

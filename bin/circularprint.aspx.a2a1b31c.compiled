@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/circularprint.aspx" hash="fffffff822d86812" filehash="142e8fdd1460fa87" flags="110000" assembly="App_Web_tukrv0vu" type="ASP.academics_circularprint_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/circularprint.aspx" />
+        <filedep name="/pvkk/Academics/circularprint.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Correspondence/SMSToParents.aspx" hash="fffffff822d86812" filehash="97fc6e8f5fa3fa65" flags="110000" assembly="App_Web_aoqv0k7x" type="ASP.correspondence_smstoparents_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Correspondence/SMSToParents.aspx" />
+        <filedep name="/pvkk/Correspondence/SMSToParents.aspx.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+    </filedeps>
+</preserve>

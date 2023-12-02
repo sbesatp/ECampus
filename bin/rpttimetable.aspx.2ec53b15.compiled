@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/General/rpttimetable.aspx" hash="fffffff822d86812" filehash="7d2f3016571bf73c" flags="110000" assembly="App_Web_xm_fyz5f" type="ASP.general_rpttimetable_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+        <filedep name="/pvkk/General/rpttimetable.aspx" />
+        <filedep name="/pvkk/General/rpttimetable.aspx.cs" />
+    </filedeps>
+</preserve>

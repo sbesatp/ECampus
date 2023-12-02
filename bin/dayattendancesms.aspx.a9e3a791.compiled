@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Correspondence/dayattendancesms.aspx" hash="fffffff822d86812" filehash="2be78c5a8a87fa0d" flags="110000" assembly="App_Web_aoqv0k7x" type="ASP.correspondence_dayattendancesms_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Correspondence/dayattendancesms.aspx" />
+        <filedep name="/pvkk/Correspondence/dayattendancesms.aspx.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+    </filedeps>
+</preserve>

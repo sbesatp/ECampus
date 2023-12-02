@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/studentmasterattendance.aspx" hash="fffffff822d86812" filehash="fce234a9f679309b" flags="110000" assembly="App_Web_gxdpcjgh" type="ASP.academics_studentmasterattendance_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/studentmasterattendance.aspx" />
+        <filedep name="/pvkk/Academics/studentmasterattendance.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/stuspecializations.aspx" hash="fffffff822d86812" filehash="95a726c6cbb6619c" flags="110000" assembly="App_Web_tukrv0vu" type="ASP.academics_stuspecializations_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/stuspecializations.aspx" />
+        <filedep name="/pvkk/Academics/stuspecializations.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Library/uctllibrary.ascx" hash="fffffff822d86812" filehash="a14144dfe9da59f5" flags="110000" assembly="App_Web_uz0tpbz4" type="ASP.library_uctllibrary_ascx">
+    <filedeps>
+        <filedep name="/pvkk/Library/uctllibrary.ascx" />
+        <filedep name="/pvkk/Library/uctllibrary.ascx.cs" />
+    </filedeps>
+</preserve>

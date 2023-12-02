@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/downloadresources.aspx" hash="fffffff822d86812" filehash="fd80566c0d2c8dc7" flags="110000" assembly="App_Web_tukrv0vu" type="ASP.academics_downloadresources_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/downloadresources.aspx" />
+        <filedep name="/pvkk/Academics/downloadresources.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/WUCCourseBranch.ascx" />
+        <filedep name="/pvkk/WUCCourseBranch.ascx.cs" />
+    </filedeps>
+</preserve>

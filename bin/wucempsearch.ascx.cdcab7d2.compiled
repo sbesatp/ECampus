@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/WUCEmpSearch.ascx" hash="fffffff822d86812" filehash="bb8d7edb03023a64" flags="110000" assembly="App_Web_4dg51sf8" type="ASP.wucempsearch_ascx">
+    <filedeps>
+        <filedep name="/pvkk/WUCEmpSearch.ascx" />
+        <filedep name="/pvkk/WUCEmpSearch.ascx.cs" />
+    </filedeps>
+</preserve>

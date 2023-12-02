@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/lpreport.aspx" hash="fffffff822d86812" filehash="801033dbd9d174dc" flags="110000" assembly="App_Web_tukrv0vu" type="ASP.academics_lpreport_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/lpreport.aspx" />
+        <filedep name="/pvkk/Academics/lpreport.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+    </filedeps>
+</preserve>

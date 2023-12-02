@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Feepayments/studentfeecard.aspx" hash="fffffff822d86812" filehash="ccdbf03747fcb1b" flags="110000" assembly="App_Web_teali-cx" type="ASP.feepayments_studentfeecard_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Feepayments/studentfeecard.aspx" />
+        <filedep name="/pvkk/Feepayments/studentfeecard.aspx.cs" />
+    </filedeps>
+</preserve>

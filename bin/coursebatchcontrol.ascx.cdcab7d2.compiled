@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/CourseBatchControl.ascx" hash="fffffff822d86812" filehash="177c65e7f9d62d01" flags="110000" assembly="App_Web_4dg51sf8" type="ASP.coursebatchcontrol_ascx">
+    <filedeps>
+        <filedep name="/pvkk/CourseBatchControl.ascx" />
+        <filedep name="/pvkk/CourseBatchControl.ascx.cs" />
+    </filedeps>
+</preserve>

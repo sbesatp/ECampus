@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/student_achievements.aspx" hash="fffffff822d86812" filehash="e0c5418e6254b493" flags="110000" assembly="App_Web_dejwud5_" type="ASP.academics_student_achievements_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/student_achievements.aspx" />
+        <filedep name="/pvkk/Academics/student_achievements.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

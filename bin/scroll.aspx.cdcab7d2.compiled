@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/scroll.aspx" hash="fffffff822d86812" filehash="46ed814e3cf91a46" flags="110000" assembly="App_Web_4dg51sf8" type="ASP.scroll_aspx">
+    <filedeps>
+        <filedep name="/pvkk/scroll.aspx" />
+        <filedep name="/pvkk/scroll.aspx.cs" />
+    </filedeps>
+</preserve>

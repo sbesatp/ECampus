@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Admissions/newadmission.aspx" hash="fffffff822d86812" filehash="3b05a4bdf17df1af" flags="110000" assembly="App_Web_ep-w2hll" type="ASP.admissions_newadmission_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Admissions/newadmission.aspx" />
+        <filedep name="/pvkk/Admissions/newadmission.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/WUCLocations.ascx" />
+        <filedep name="/pvkk/WUCLocations.ascx.cs" />
+    </filedeps>
+</preserve>

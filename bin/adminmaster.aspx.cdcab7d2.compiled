@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/AdminMaster.aspx" hash="fffffff822d86812" filehash="eea2a9d56eee84ee" flags="110000" assembly="App_Web_4dg51sf8" type="ASP.adminmaster_aspx">
+    <filedeps>
+        <filedep name="/pvkk/AdminMaster.aspx" />
+        <filedep name="/pvkk/AdminMaster.aspx.cs" />
+    </filedeps>
+</preserve>

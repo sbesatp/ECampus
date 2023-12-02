@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/workorder.aspx" hash="fffffff822d86812" filehash="e2d57f5cfa74d42f" flags="110000" assembly="App_Web_24wo7649" type="ASP.academics_workorder_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/workorder.aspx" />
+        <filedep name="/pvkk/Academics/workorder.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

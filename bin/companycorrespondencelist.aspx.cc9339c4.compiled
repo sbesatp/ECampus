@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Placements/CompanyCorrespondenceList.aspx" hash="fffffff822d86812" filehash="833e79ee9c7ed735" flags="110000" assembly="App_Web_htmjhqev" type="ASP.placements_companycorrespondencelist_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Placements/CompanyCorrespondenceList.aspx" />
+        <filedep name="/pvkk/Placements/CompanyCorrespondenceList.aspx.cs" />
+    </filedeps>
+</preserve>

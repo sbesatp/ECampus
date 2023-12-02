@@ -1,0 +1,66 @@
+﻿/* Scrollable Content Height */
+.scrollContent {
+ height:100px;
+ overflow:auto;
+}
+
+.scrollContent tr {
+ height: auto;
+ white-space: nowrap;
+}
+
+/* Fixed Header Height */
+.fixedHeader tr {
+ position:relative;
+ height: auto;
+ /* this fixes IE header jumping bug when mousing over rows in the tbody */
+ top: expression(this.parentNode.parentNode.parentNode.scrollTop);
+ font-weight:bold;
+ font-family:Verdana, Arial, Helvetica, sans-serif;
+ font-size:11px;
+ height:15px;
+ letter-spacing:1px;
+ text-transform :uppercase;
+ background-image :url(../NewImages/tdhead.gif);
+ color:#FFFFFF;
+}
+
+
+/* Table Header formatting */
+.headerFormat {
+ background-color: white;
+ color: #FFFFFF;
+ margin: 3px;
+ padding: 1px;
+ white-space: nowrap;
+ font-family: Helvetica;
+ font-size: 16px;
+ text-decoration: none;
+ font-weight: bold;
+}
+.headerFormat tr td {
+ border: 1px solid #000000;
+ background-color: #7DA87D;
+}
+
+table.scrollTable tr:hover {
+	/*background-color: #c5e5c5;
+	color: #006600;*/
+	font-style: normal;
+	/*text-decoration: underline overline;*/
+	text-decoration:none;
+}
+
+div.TableContainer {
+ height: 150px; 
+ width:800px;
+ overflow:auto;
+}
+.bodyFormat tr td {
+	color: #000000;
+	margin: 3px;
+	padding: 1px;
+	border: 0px none;
+	font-family: Helvetica;
+	font-size: 12px;
+}

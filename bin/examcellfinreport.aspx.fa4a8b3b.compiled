@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Examinations/ExamCellFinReport.aspx" hash="fffffff822d86812" filehash="db92d252f68549c6" flags="110000" assembly="App_Web_04eev8v5" type="ASP.examinations_examcellfinreport_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Examinations/ExamCellFinReport.aspx" />
+        <filedep name="/pvkk/Examinations/ExamCellFinReport.aspx.cs" />
+    </filedeps>
+</preserve>

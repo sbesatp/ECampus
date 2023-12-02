@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Admissions/barcode.aspx" hash="fffffff822d86812" filehash="42a550ffc74dd844" flags="110000" assembly="App_Web_ep-w2hll" type="ASP.admissions_barcode_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Admissions/barcode.aspx" />
+        <filedep name="/pvkk/Admissions/barcode.aspx.cs" />
+    </filedeps>
+</preserve>

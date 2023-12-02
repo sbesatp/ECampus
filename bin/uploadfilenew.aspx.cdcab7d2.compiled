@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/uploadfilenew.aspx" hash="fffffff822d86812" filehash="efc74b16a82024cc" flags="110000" assembly="App_Web_4dg51sf8" type="ASP.uploadfilenew_aspx">
+    <filedeps>
+        <filedep name="/pvkk/uploadfilenew.aspx" />
+        <filedep name="/pvkk/uploadfilenew.aspx.cs" />
+    </filedeps>
+</preserve>

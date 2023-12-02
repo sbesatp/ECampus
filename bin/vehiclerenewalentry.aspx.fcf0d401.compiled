@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Transport/vehiclerenewalentry.aspx" hash="fffffff822d86812" filehash="954b9c5a1f14d955" flags="110000" assembly="App_Web_vnuge5ev" type="ASP.transport_vehiclerenewalentry_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Transport/vehiclerenewalentry.aspx" />
+        <filedep name="/pvkk/Transport/vehiclerenewalentry.aspx.cs" />
+    </filedeps>
+</preserve>

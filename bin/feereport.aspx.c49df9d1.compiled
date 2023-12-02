@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Feepayments/feereport.aspx" hash="fffffff822d86812" filehash="a468816241cb0c1" flags="110000" assembly="App_Web_teali-cx" type="ASP.feepayments_feereport_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Feepayments/feereport.aspx" />
+        <filedep name="/pvkk/Feepayments/feereport.aspx.cs" />
+        <filedep name="/pvkk/WUCBatchYear.ascx" />
+        <filedep name="/pvkk/WUCBatchYear.ascx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/ExamTypes.ascx" hash="fffffff822d86812" filehash="4a1942bf620b1a80" flags="110000" assembly="App_Web_4dg51sf8" type="ASP.examtypes_ascx">
+    <filedeps>
+        <filedep name="/pvkk/ExamTypes.ascx" />
+        <filedep name="/pvkk/ExamTypes.ascx.cs" />
+    </filedeps>
+</preserve>

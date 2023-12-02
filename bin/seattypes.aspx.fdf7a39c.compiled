@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Admin/SeatTypes.aspx" hash="fffffff822d86812" filehash="9dce82f0fb9673f1" flags="110000" assembly="App_Web_xu56dmot" type="ASP.admin_seattypes_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Admin/SeatTypes.aspx" />
+        <filedep name="/pvkk/Admin/SeatTypes.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

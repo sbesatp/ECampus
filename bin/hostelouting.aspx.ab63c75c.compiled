@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Hostel/hostelouting.aspx" hash="fffffff822d86812" filehash="c29edc0d23b01b24" flags="110000" assembly="App_Web_gtppnfzq" type="ASP.hostel_hostelouting_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+        <filedep name="/pvkk/Hostel/hostelouting.aspx" />
+        <filedep name="/pvkk/Hostel/hostelouting.aspx.cs" />
+    </filedeps>
+</preserve>

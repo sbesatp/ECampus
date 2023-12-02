@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Systems/defectivecomponent.aspx" hash="fffffff822d86812" filehash="b4509c24f0e36a00" flags="110000" assembly="App_Web_-jtwmpwn" type="ASP.systems_defectivecomponent_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Systems/defectivecomponent.aspx" />
+        <filedep name="/pvkk/Systems/defectivecomponent.aspx.cs" />
+    </filedeps>
+</preserve>

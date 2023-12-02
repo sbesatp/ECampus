@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Mgmt/managementstudents.aspx" hash="fffffff822d86812" filehash="e9c244f5ae30712f" flags="110000" assembly="App_Web_av9h9mx1" type="ASP.mgmt_managementstudents_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+        <filedep name="/pvkk/Mgmt/managementstudents.aspx" />
+        <filedep name="/pvkk/Mgmt/managementstudents.aspx.cs" />
+    </filedeps>
+</preserve>

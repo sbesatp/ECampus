@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Library/rptbookbank.aspx" hash="fffffff822d86812" filehash="e3437ab111668f72" flags="110000" assembly="App_Web_uz0tpbz4" type="ASP.library_rptbookbank_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Library/rptbookbank.aspx" />
+        <filedep name="/pvkk/Library/rptbookbank.aspx.cs" />
+    </filedeps>
+</preserve>

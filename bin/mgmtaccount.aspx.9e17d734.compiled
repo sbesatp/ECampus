@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Mgmt/mgmtaccount.aspx" hash="fffffff822d86812" filehash="ce843fd5ac6c70c2" flags="110000" assembly="App_Web_av9h9mx1" type="ASP.mgmt_mgmtaccount_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Mgmt/mgmtaccount.aspx" />
+        <filedep name="/pvkk/Mgmt/mgmtaccount.aspx.cs" />
+    </filedeps>
+</preserve>

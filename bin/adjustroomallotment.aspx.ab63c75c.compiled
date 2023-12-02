@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Hostel/AdjustRoomAllotment.aspx" hash="fffffff822d86812" filehash="eaf4e5a4a81b177f" flags="110000" assembly="App_Web_gtppnfzq" type="ASP.hostel_adjustroomallotment_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Hostel/AdjustRoomAllotment.aspx" />
+        <filedep name="/pvkk/Hostel/AdjustRoomAllotment.aspx.cs" />
+    </filedeps>
+</preserve>

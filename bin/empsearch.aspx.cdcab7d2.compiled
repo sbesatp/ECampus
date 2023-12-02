@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/empsearch.aspx" hash="fffffff822d86812" filehash="d17ba12ab90647f8" flags="110000" assembly="App_Web_4dg51sf8" type="ASP.empsearch_aspx">
+    <filedeps>
+        <filedep name="/pvkk/empsearch.aspx" />
+        <filedep name="/pvkk/empsearch.aspx.cs" />
+    </filedeps>
+</preserve>

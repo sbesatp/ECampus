@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/recalculatemonthly.aspx" hash="fffffff822d86812" filehash="481a417337c15df3" flags="110000" assembly="App_Web_tukrv0vu" type="ASP.academics_recalculatemonthly_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/recalculatemonthly.aspx" />
+        <filedep name="/pvkk/Academics/recalculatemonthly.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+    </filedeps>
+</preserve>

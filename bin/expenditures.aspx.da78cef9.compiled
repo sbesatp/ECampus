@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Accounts/Expenditures.aspx" hash="fffffff822d86812" filehash="eada10ab52683cb9" flags="110000" assembly="App_Web_d5d3zjyd" type="ASP.accounts_expenditures_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Accounts/Expenditures.aspx" />
+        <filedep name="/pvkk/Accounts/Expenditures.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

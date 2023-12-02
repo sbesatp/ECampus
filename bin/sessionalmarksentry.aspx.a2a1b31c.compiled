@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/sessionalmarksentry.aspx" hash="fffffff822d86812" filehash="3c8fdf650444d8e8" flags="110000" assembly="App_Web_gxdpcjgh" type="ASP.academics_sessionalmarksentry_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/sessionalmarksentry.aspx" />
+        <filedep name="/pvkk/Academics/sessionalmarksentry.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

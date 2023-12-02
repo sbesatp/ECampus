@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Examinations/examoldreceipt.aspx" hash="fffffff822d86812" filehash="b653e4619f8292c6" flags="110000" assembly="App_Web_yn8v4-yi" type="ASP.examinations_examoldreceipt_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Examinations/examoldreceipt.aspx" />
+        <filedep name="/pvkk/Examinations/examoldreceipt.aspx.cs" />
+    </filedeps>
+</preserve>

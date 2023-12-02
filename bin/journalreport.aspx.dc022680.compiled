@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Library/journalreport.aspx" hash="fffffff822d86812" filehash="b3381750e63c0596" flags="110000" assembly="App_Web_i9dotprm" type="ASP.library_journalreport_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Library/journalreport.aspx" />
+        <filedep name="/pvkk/Library/journalreport.aspx.cs" />
+    </filedeps>
+</preserve>

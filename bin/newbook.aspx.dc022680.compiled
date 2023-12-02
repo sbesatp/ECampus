@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Library/NewBook.aspx" hash="fffffff822d86812" filehash="b851f530bfb7b6a8" flags="110000" assembly="App_Web_vynzftqi" type="ASP.library_newbook_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Library/NewBook.aspx" />
+        <filedep name="/pvkk/Library/NewBook.aspx.cs" />
+        <filedep name="/pvkk/Library/uctllibrary.ascx" />
+        <filedep name="/pvkk/Library/uctllibrary.ascx.cs" />
+    </filedeps>
+</preserve>

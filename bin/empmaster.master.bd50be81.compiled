@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Employee/EmpMaster.master" hash="fffffff822d86812" filehash="46f0bb17ad8525ad" flags="110000" assembly="App_Web_egs7j97l" type="ASP.employee_empmaster_master">
+    <filedeps>
+        <filedep name="/pvkk/Employee/EmpMaster.master" />
+        <filedep name="/pvkk/Employee/EmpMaster.master.cs" />
+    </filedeps>
+</preserve>

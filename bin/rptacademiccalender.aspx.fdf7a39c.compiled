@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Admin/rptacademiccalender.aspx" hash="fffffff822d86812" filehash="a0c5e6faeca93381" flags="110000" assembly="App_Web_xu56dmot" type="ASP.admin_rptacademiccalender_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Admin/rptacademiccalender.aspx" />
+        <filedep name="/pvkk/Admin/rptacademiccalender.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

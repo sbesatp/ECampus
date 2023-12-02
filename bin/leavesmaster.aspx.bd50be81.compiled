@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Employee/LeavesMaster.aspx" hash="fffffff822d86812" filehash="addc692e52ebff9e" flags="110000" assembly="App_Web_waebw9pn" type="ASP.employee_leavesmaster_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Employee/LeavesMaster.aspx" />
+        <filedep name="/pvkk/Employee/LeavesMaster.aspx.cs" />
+    </filedeps>
+</preserve>

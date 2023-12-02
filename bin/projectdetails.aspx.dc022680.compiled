@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Library/projectdetails.aspx" hash="fffffff822d86812" filehash="700ae297114b716a" flags="110000" assembly="App_Web_pso51t9v" type="ASP.library_projectdetails_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Library/projectdetails.aspx" />
+        <filedep name="/pvkk/Library/projectdetails.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Library/BookSearchUC.ascx" hash="fffffff822d86812" filehash="d7bb4b86f5b9dbef" flags="110000" assembly="App_Web_pso51t9v" type="ASP.library_booksearchuc_ascx">
+    <filedeps>
+        <filedep name="/pvkk/Library/BookSearchUC.ascx" />
+        <filedep name="/pvkk/Library/BookSearchUC.ascx.cs" />
+    </filedeps>
+</preserve>

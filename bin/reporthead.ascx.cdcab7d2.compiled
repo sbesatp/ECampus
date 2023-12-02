@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/reportHead.ascx" hash="fffffff822d86812" filehash="8ec0f27003e5094d" flags="110000" assembly="App_Web_4dg51sf8" type="ASP.reporthead_ascx">
+    <filedeps>
+        <filedep name="/pvkk/reportHead.ascx" />
+        <filedep name="/pvkk/reportHead.ascx.cs" />
+    </filedeps>
+</preserve>

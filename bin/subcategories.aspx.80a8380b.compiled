@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Stores/SubCategories.aspx" hash="fffffff822d86812" filehash="15902ea8e40ed412" flags="110000" assembly="App_Web_rdnrr5if" type="ASP.stores_subcategories_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Stores/StoresMaster.master" />
+        <filedep name="/pvkk/Stores/StoresMaster.master.cs" />
+        <filedep name="/pvkk/Stores/SubCategories.aspx" />
+        <filedep name="/pvkk/Stores/SubCategories.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/setsubstitutesubject.aspx" hash="fffffff822d86812" filehash="ebf9c8a49a281e26" flags="110000" assembly="App_Web_tukrv0vu" type="ASP.academics_setsubstitutesubject_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/setsubstitutesubject.aspx" />
+        <filedep name="/pvkk/Academics/setsubstitutesubject.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

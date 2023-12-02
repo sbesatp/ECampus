@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/WUCLocations.ascx" hash="fffffff822d86812" filehash="d353084b94cbd79f" flags="110000" assembly="App_Web_4dg51sf8" type="ASP.wuclocations_ascx">
+    <filedeps>
+        <filedep name="/pvkk/WUCLocations.ascx" />
+        <filedep name="/pvkk/WUCLocations.ascx.cs" />
+    </filedeps>
+</preserve>

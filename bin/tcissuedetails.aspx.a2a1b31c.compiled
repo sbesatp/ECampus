@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/TCIssueDetails.aspx" hash="fffffff822d86812" filehash="e1358b284ccadc99" flags="110000" assembly="App_Web_tukrv0vu" type="ASP.academics_tcissuedetails_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/TCIssueDetails.aspx" />
+        <filedep name="/pvkk/Academics/TCIssueDetails.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+    </filedeps>
+</preserve>

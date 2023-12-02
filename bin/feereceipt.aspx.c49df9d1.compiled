@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Feepayments/FeeReceipt.aspx" hash="fffffff822d86812" filehash="2c54393fc77b4e66" flags="110000" assembly="App_Web_teali-cx" type="ASP.feepayments_feereceipt_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Feepayments/FeeReceipt.aspx" />
+        <filedep name="/pvkk/Feepayments/FeeReceipt.aspx.cs" />
+    </filedeps>
+</preserve>

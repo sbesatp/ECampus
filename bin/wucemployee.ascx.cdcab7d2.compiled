@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/WUCEmployee.ascx" hash="fffffff822d86812" filehash="28a23b3d45569b1a" flags="110000" assembly="App_Web_4dg51sf8" type="ASP.wucemployee_ascx">
+    <filedeps>
+        <filedep name="/pvkk/WUCEmployee.ascx" />
+        <filedep name="/pvkk/WUCEmployee.ascx.cs" />
+    </filedeps>
+</preserve>

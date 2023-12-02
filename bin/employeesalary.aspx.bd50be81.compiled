@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Employee/employeesalary.aspx" hash="fffffff822d86812" filehash="da59635a0a1458" flags="110000" assembly="App_Web_waebw9pn" type="ASP.employee_employeesalary_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/Employee/employeesalary.aspx" />
+        <filedep name="/pvkk/Employee/employeesalary.aspx.cs" />
+    </filedeps>
+</preserve>

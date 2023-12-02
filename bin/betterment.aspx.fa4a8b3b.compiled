@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Examinations/betterment.aspx" hash="fffffff822d86812" filehash="14cc37fef72d4e90" flags="110000" assembly="App_Web_drk1jako" type="ASP.examinations_betterment_aspx">
+    <filedeps>
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx" />
+        <filedep name="/pvkk/CourseBranchSemester.ascx.cs" />
+        <filedep name="/pvkk/Examinations/betterment.aspx" />
+        <filedep name="/pvkk/Examinations/betterment.aspx.cs" />
+    </filedeps>
+</preserve>

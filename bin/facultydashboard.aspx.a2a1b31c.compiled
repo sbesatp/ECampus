@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Academics/facultydashboard.aspx" hash="fffffff822d86812" filehash="e77ee6693af78593" flags="110000" assembly="App_Web_tukrv0vu" type="ASP.academics_facultydashboard_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Academics/facultydashboard.aspx" />
+        <filedep name="/pvkk/Academics/facultydashboard.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>

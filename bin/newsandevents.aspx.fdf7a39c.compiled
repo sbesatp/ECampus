@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/pvkk/Admin/newsandevents.aspx" hash="fffffff822d86812" filehash="23a48678aa6d4f9b" flags="110000" assembly="App_Web_shsd5vnc" type="ASP.admin_newsandevents_aspx">
+    <filedeps>
+        <filedep name="/pvkk/Admin/newsandevents.aspx" />
+        <filedep name="/pvkk/Admin/newsandevents.aspx.cs" />
+        <filedep name="/pvkk/CAPMaster.master" />
+        <filedep name="/pvkk/CAPMaster.master.cs" />
+    </filedeps>
+</preserve>
